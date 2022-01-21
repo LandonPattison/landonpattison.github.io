@@ -1,3 +1,2 @@
-This is my personal website using HTML/CSS/Javascript
+landonpattison.github.io
 
-The link to the website is landonpattison.github.io
